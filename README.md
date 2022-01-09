@@ -6,4 +6,5 @@ Doing second fix in branch Fix09.01
 Doing fix on 09.01 in branch Fix09.01
 Doing change in local repository after did change in original:
 Doing change from GitHub directly
-
+C5
+C6
