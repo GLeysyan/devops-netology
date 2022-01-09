@@ -8,3 +8,8 @@ Doing change in local repository after did change in original:
 Doing change from GitHub directly
 C5
 C6
+C2
+C3
+C8
+C9
+
